@@ -1,0 +1,347 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.API\\SuperTrader.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.API\\SuperTrader.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.API\\SuperTrader.API.csproj",
+        "projectName": "SuperTrader.API",
+        "projectPath": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.API\\SuperTrader.API.csproj",
+        "packagesPath": "C:\\Users\\TAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Business\\SuperTrader.Business.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Business\\SuperTrader.Business.csproj"
+              },
+              "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.DataAccess\\SuperTrader.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.DataAccess\\SuperTrader.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[13.17.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Base\\SuperTrader.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Base\\SuperTrader.Base.csproj",
+        "projectName": "SuperTrader.Base",
+        "projectPath": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Base\\SuperTrader.Base.csproj",
+        "packagesPath": "C:\\Users\\TAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Business\\SuperTrader.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Business\\SuperTrader.Business.csproj",
+        "projectName": "SuperTrader.Business",
+        "projectPath": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Business\\SuperTrader.Business.csproj",
+        "packagesPath": "C:\\Users\\TAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.DataAccess\\SuperTrader.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.DataAccess\\SuperTrader.DataAccess.csproj"
+              },
+              "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Entity\\SuperTrader.Entity.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Entity\\SuperTrader.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.DataAccess\\SuperTrader.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.DataAccess\\SuperTrader.DataAccess.csproj",
+        "projectName": "SuperTrader.DataAccess",
+        "projectPath": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.DataAccess\\SuperTrader.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\TAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Base\\SuperTrader.Base.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Base\\SuperTrader.Base.csproj"
+              },
+              "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Entity\\SuperTrader.Entity.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Entity\\SuperTrader.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Entity\\SuperTrader.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Entity\\SuperTrader.Entity.csproj",
+        "projectName": "SuperTrader.Entity",
+        "projectPath": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Entity\\SuperTrader.Entity.csproj",
+        "packagesPath": "C:\\Users\\TAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Base\\SuperTrader.Base.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\SuperTrader\\SuperTrader.Base\\SuperTrader.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

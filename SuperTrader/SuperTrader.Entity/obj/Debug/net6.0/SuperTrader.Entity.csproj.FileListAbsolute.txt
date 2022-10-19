@@ -1,0 +1,15 @@
+C:\Users\TAN\source\repos\SuperTrader\SuperTrader.Entity\bin\Debug\net6.0\SuperTrader.Entity.deps.json
+C:\Users\TAN\source\repos\SuperTrader\SuperTrader.Entity\bin\Debug\net6.0\SuperTrader.Entity.dll
+C:\Users\TAN\source\repos\SuperTrader\SuperTrader.Entity\bin\Debug\net6.0\ref\SuperTrader.Entity.dll
+C:\Users\TAN\source\repos\SuperTrader\SuperTrader.Entity\bin\Debug\net6.0\SuperTrader.Entity.pdb
+C:\Users\TAN\source\repos\SuperTrader\SuperTrader.Entity\bin\Debug\net6.0\SuperTrader.Base.dll
+C:\Users\TAN\source\repos\SuperTrader\SuperTrader.Entity\bin\Debug\net6.0\SuperTrader.Base.pdb
+C:\Users\TAN\source\repos\SuperTrader\SuperTrader.Entity\obj\Debug\net6.0\SuperTrader.Entity.csproj.AssemblyReference.cache
+C:\Users\TAN\source\repos\SuperTrader\SuperTrader.Entity\obj\Debug\net6.0\SuperTrader.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAN\source\repos\SuperTrader\SuperTrader.Entity\obj\Debug\net6.0\SuperTrader.Entity.AssemblyInfoInputs.cache
+C:\Users\TAN\source\repos\SuperTrader\SuperTrader.Entity\obj\Debug\net6.0\SuperTrader.Entity.AssemblyInfo.cs
+C:\Users\TAN\source\repos\SuperTrader\SuperTrader.Entity\obj\Debug\net6.0\SuperTrader.Entity.csproj.CoreCompileInputs.cache
+C:\Users\TAN\source\repos\SuperTrader\SuperTrader.Entity\obj\Debug\net6.0\SuperTrader.Entity.csproj.CopyComplete
+C:\Users\TAN\source\repos\SuperTrader\SuperTrader.Entity\obj\Debug\net6.0\SuperTrader.Entity.dll
+C:\Users\TAN\source\repos\SuperTrader\SuperTrader.Entity\obj\Debug\net6.0\ref\SuperTrader.Entity.dll
+C:\Users\TAN\source\repos\SuperTrader\SuperTrader.Entity\obj\Debug\net6.0\SuperTrader.Entity.pdb
